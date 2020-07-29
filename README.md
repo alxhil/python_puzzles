@@ -11,7 +11,7 @@
 - [x] Counting Syl          Difficulty 3/10
 - [x] Anagrams              Difficulty 3/10
 - [x]  Flatten List         Difficulty 3/10
-- [ ]  Min-maxing           Difficulty 3/10
+- [x]  Min-maxing           Difficulty 3/10
 - [ ]  Div by 3             Difficulty 3/10
 - [ ]  Tic-tac-toe          Difficulty 4/10
 - [ ]  Palindrome           Difficulty 4/10
