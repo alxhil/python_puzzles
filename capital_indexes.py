@@ -13,5 +13,3 @@ def capital_indexes(str_in):
         if(str_in[i] == str_in[i].upper()):
             l.append(i)
     return l
-
-capital_indexes("hElO")
