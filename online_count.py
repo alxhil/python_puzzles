@@ -1,6 +1,7 @@
 # python challenge 3 #
 # https://pythonprinciples.com/challenges/Online-status/ #
 # solution is O(n) time complexity
+# Alex Hill #
 
 def online_count(dict_in):
     online = 0

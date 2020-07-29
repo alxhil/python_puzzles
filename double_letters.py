@@ -1,5 +1,6 @@
 # python challenge 6 #
 # https://pythonprinciples.com/challenges/Double-letters/ #
+# Alex Hill #
 
 def double_letters(str_in):
     temp_str = ""

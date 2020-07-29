@@ -7,7 +7,7 @@
 
 # For example, mid("abc") should return "b" and mid("aaaa")
 # should return "".
-
+# Alex Hill #
 
 def mid(str_in):
     if(len(str_in) % 2 == 0):

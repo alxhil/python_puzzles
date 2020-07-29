@@ -1,5 +1,6 @@
 #python challenge 5 #
 # https://pythonprinciples.com/challenges/Type-check/ #
+# Alex Hill #
 
 def only_ints(in1, in2):
     if(type(in1) == int and type(in2) == int):

@@ -1,3 +1,8 @@
+# python challenge 9 #
+# https://pythonprinciples.com/challenges/Anagrams/ #
+# Alex Hill #
+
+
 def is_anagram(in_1, in_2):
     if(len(in_1) != len(in_2)):
         return False

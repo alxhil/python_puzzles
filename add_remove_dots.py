@@ -1,5 +1,6 @@
 # python challenge 7 #
 # https://pythonprinciples.com/challenges/Adding-and-removing-dots/ #
+# Alex Hill #
 
 
 def add_dots(str_in):
