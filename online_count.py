@@ -10,11 +10,3 @@ def online_count(dict_in):
         if(y == "online"):
             online += 1
     return online
-
-statuses = {
-    "Alice": "online",
-    "Bob": "offline",
-    "Eve": "online",
-}
-
-print(online_count(statuses))
